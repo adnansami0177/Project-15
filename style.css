@@ -1,0 +1,35 @@
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.hero{
+    background-image: url(porsche-911.jpg);
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 35px;
+    overflow: hidden;
+}
+.txt{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white
+}
+
+.Project{
+    overflow: hidden;
+    width: 100%;
+}
+.Project1{
+    float: left;
+    border: 2px solid black;
+    height:230px;
+    width: 32%;
+    margin-right: 15px;
+    margin-left: 5px;
+    margin-bottom:10px;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
