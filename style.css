@@ -24,6 +24,8 @@
     width: 100%;
 }
 .Project1{
+    transform: rotateX('360deg');
+    transition: 2s;
     float: left;
     border: 2px solid black;
     height:230px;
@@ -33,3 +35,20 @@
     margin-bottom:10px;
     color: black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.footer{
+    background-color: rgb(183, 163, 163);
+    height: 110px;
+    width: 100%;
+    padding-top: 30px;
+    float: left;
+    
+}
+ 
+.link{
+    float: left;
+    width: 33%;
+    margin-left: 5px;
+    
+}
